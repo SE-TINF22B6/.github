@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [ ] Jenkins	https://www.jenkins.io/
+- [X] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
@@ -45,9 +45,9 @@ _Demo use case: cookie clicker game_
 _API development_
 
 - [ ] Apiary	https://apiary.io/	
-- [ ] GraphQL	http://graphql.org/
+- [x] GraphQL	http://graphql.org/
 - [ ] SWAGGER	https://swagger.io/	
-- [ ] Postman	https://www.postman.com/	
+- [x] Postman	https://www.postman.com/ (Nicolas Maiwald)	
 - [ ] gRPC	https://grpc.io/	
 
 _Development platforms, languages, frameworks_
@@ -56,11 +56,11 @@ _Development platforms, languages, frameworks_
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
 - [ ] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
 - [ ] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
-- [ ] Go	https://golang.org/	Programming language supported by Google
+- [x] Go	https://golang.org/	Programming language supported by Google
 - [ ] Swift	https://developer.apple.com/swift/	Programming language for all Apple platforms
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
 - [ ] Vaadin	https://vaadin.com/	Java web development framework
-- [ ] Spring Framework / Boot	https://spring.io/projects/spring-boot	Java-based framework
+- [x] Spring Framework / Boot	https://spring.io/projects/spring-boot	Java-based framework
 - [x] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
 - [ ] Electron	https://www.electronjs.org/	Create desktop apps using web technologies
 	
@@ -86,14 +86,14 @@ _Development platforms, languages, frameworks_
 			
 - [ ] Hibernate	https://hibernate.org/	Dramework for mapping an object-oriented domain model to a relational database
  
-- [ ] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
+- [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
 - [ ] MongoDB	https://www.mongodb.com/	NoSQL database
  
 - [ ] Godot	https://godotengine.org/	Game engine
 - [ ] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
-- [ ] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
+- [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
 			
 ### Deployment		Semester 4, Weeks 1-4	
 - [ ] Traefik 	https://traefik.io/traefik/	HTTP reverse proxy and load balancer 
