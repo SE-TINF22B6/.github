@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [X] Jenkins	https://www.jenkins.io/
+- [ ] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
@@ -55,7 +55,7 @@ _Development platforms, languages, frameworks_
 - [ ] Firebase	https://firebase.google.com/	Google's mobile and web app development platform
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
 - [ ] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
-- [ ] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
+- [x] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
 - [x] Go	https://golang.org/	Programming language supported by Google
 - [ ] Swift	https://developer.apple.com/swift/	Programming language for all Apple platforms
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
@@ -91,7 +91,7 @@ _Development platforms, languages, frameworks_
 - [X] MongoDB	https://www.mongodb.com/	NoSQL database	(Maximilian Simon)
 
 - [ ] Godot	https://godotengine.org/	Game engine
-- [ ] UNITY	https://unity.com/	Game engine
+- [x] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
 - [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
