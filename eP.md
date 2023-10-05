@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [X] Jenkins	https://www.jenkins.io/
+- [ ] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
@@ -55,13 +55,14 @@ _Development platforms, languages, frameworks_
 - [ ] Firebase	https://firebase.google.com/	Google's mobile and web app development platform
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
 - [ ] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
-- [ ] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
+- [x] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
 - [x] Go	https://golang.org/	Programming language supported by Google
 - [ ] Swift	https://developer.apple.com/swift/	Programming language for all Apple platforms
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
-- [ ] Vaadin	https://vaadin.com/	Java web development framework
+- [X] Vaadin	https://vaadin.com/	Java web development framework
 - [X] Spring Framework / Boot	https://spring.io/projects/spring-boot	Java-based framework
-- [ ] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
+- [X] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
+
 - [ ] Electron	https://www.electronjs.org/	Create desktop apps using web technologies
 	
 - [ ] Flask	https://palletsprojects.com/p/flask/	Micro web framework written in Python.
@@ -69,16 +70,17 @@ _Development platforms, languages, frameworks_
 	
 - [ ] node.js	https://nodejs.org/	Javascript runtime (Web server)
 - [ ] Deno	https://deno.land/	Runtime for JavaScript and TypeScript
-			
-- [ ] Angular	https://angular.io/	Web development framework
+
+- [x] Angular	https://angular.io/	Web development framework
 - [x] React	https://react.dev/	Web development framework
+
 - [ ] NextJS	https://nextjs.org/	Web development framework
 - [ ] jQuery	https://jquery.com/	JS library, good for HTML traversal and manipulation
 - [ ] OpenUI5	https://openui5.org/	JS framework (SAP)
 - [ ] Vue.js 	https://vuejs.org/	JS framework
 			
 - [ ] sass	https://sass-lang.com/	CSS framework
-- [ ] Bootstrap	https://getbootstrap.com/	CSS framework
+- [x] Bootstrap	https://getbootstrap.com/	CSS framework
 			
 - [ ] Docusaurus	https://docusaurus.io/	Static-site generator
 			
@@ -87,10 +89,10 @@ _Development platforms, languages, frameworks_
 - [ ] Hibernate	https://hibernate.org/	Dramework for mapping an object-oriented domain model to a relational database
  
 - [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
-- [ ] MongoDB	https://www.mongodb.com/	NoSQL database
- 
+- [X] MongoDB	https://www.mongodb.com/	NoSQL database	(Maximilian Simon)
+
 - [ ] Godot	https://godotengine.org/	Game engine
-- [ ] UNITY	https://unity.com/	Game engine
+- [x] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
 - [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
@@ -100,7 +102,7 @@ _Development platforms, languages, frameworks_
 - [ ] Nginx	https://nginx.org/	HTTP reverse proxy and load balancer 
 			
 ### More about CI/CD		Semester 4, Weeks 1-4	
-- [ ] Docker	https://www.docker.com/	Container. CD
+- [X] Docker	https://www.docker.com/	Container. CD
 - [ ] Kubernetes	https://kubernetes.io/	Container orchestration. CD
 - [ ] Travis	https://www.travis-ci.com/	CI
 			
