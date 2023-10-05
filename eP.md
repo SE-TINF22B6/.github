@@ -87,8 +87,8 @@ _Development platforms, languages, frameworks_
 - [ ] Hibernate	https://hibernate.org/	Dramework for mapping an object-oriented domain model to a relational database
  
 - [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
-- [ ] MongoDB	https://www.mongodb.com/	NoSQL database
- 
+- [X] MongoDB	https://www.mongodb.com/	NoSQL database	(Maximilian Simon)
+
 - [ ] Godot	https://godotengine.org/	Game engine
 - [ ] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
