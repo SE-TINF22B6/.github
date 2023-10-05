@@ -61,7 +61,7 @@ _Development platforms, languages, frameworks_
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
 - [ ] Vaadin	https://vaadin.com/	Java web development framework
 - [ ] Spring Framework / Boot	https://spring.io/projects/spring-boot	Java-based framework
-- [ ] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
+- [x] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
 - [ ] Electron	https://www.electronjs.org/	Create desktop apps using web technologies
 	
 - [ ] Flask	https://palletsprojects.com/p/flask/	Micro web framework written in Python.
