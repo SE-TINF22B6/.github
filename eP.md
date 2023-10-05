@@ -101,7 +101,7 @@ _Development platforms, languages, frameworks_
 - [ ] Nginx	https://nginx.org/	HTTP reverse proxy and load balancer 
 			
 ### More about CI/CD		Semester 4, Weeks 1-4	
-- [ ] Docker	https://www.docker.com/	Container. CD
+- [X] Docker	https://www.docker.com/	Container. CD
 - [ ] Kubernetes	https://kubernetes.io/	Container orchestration. CD
 - [ ] Travis	https://www.travis-ci.com/	CI
 			
