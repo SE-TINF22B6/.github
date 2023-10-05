@@ -71,7 +71,7 @@ _Development platforms, languages, frameworks_
 - [ ] Deno	https://deno.land/	Runtime for JavaScript and TypeScript
 			
 - [ ] Angular	https://angular.io/	Web development framework
-- [ ] React	https://react.dev/	Web development framework
+- [x] React	https://react.dev/	Web development framework
 - [ ] NextJS	https://nextjs.org/	Web development framework
 - [ ] jQuery	https://jquery.com/	JS library, good for HTML traversal and manipulation
 - [ ] OpenUI5	https://openui5.org/	JS framework (SAP)
