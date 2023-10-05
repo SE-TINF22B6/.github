@@ -70,7 +70,7 @@ _Development platforms, languages, frameworks_
 - [ ] node.js	https://nodejs.org/	Javascript runtime (Web server)
 - [ ] Deno	https://deno.land/	Runtime for JavaScript and TypeScript
 			
-- [ ] Angular	https://angular.io/	Web development framework
+- [x] Angular	https://angular.io/	Web development framework
 - [ ] React	https://react.dev/	Web development framework
 - [ ] NextJS	https://nextjs.org/	Web development framework
 - [ ] jQuery	https://jquery.com/	JS library, good for HTML traversal and manipulation
