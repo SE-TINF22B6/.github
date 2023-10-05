@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [ ] Jenkins	https://www.jenkins.io/
+- [X] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
@@ -45,7 +45,7 @@ _Demo use case: cookie clicker game_
 _API development_
 
 - [ ] Apiary	https://apiary.io/	
-- [ ] GraphQL	http://graphql.org/
+- [x] GraphQL	http://graphql.org/
 - [ ] SWAGGER	https://swagger.io/	
 - [x] Postman	https://www.postman.com/ (Nicolas Maiwald)	
 - [ ] gRPC	https://grpc.io/	
@@ -61,7 +61,8 @@ _Development platforms, languages, frameworks_
 - [ ] Rust	https://www.rust-lang.org/	Programming language for high performance software
 - [X] Vaadin	https://vaadin.com/	Java web development framework
 - [X] Spring Framework / Boot	https://spring.io/projects/spring-boot	Java-based framework
-- [ ] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
+- [X] JavaFX	https://openjfx.io/	Create and deliver desktop applications, as well as web applications that can run across a wide variety of devices
+
 - [ ] Electron	https://www.electronjs.org/	Create desktop apps using web technologies
 	
 - [ ] Flask	https://palletsprojects.com/p/flask/	Micro web framework written in Python.
@@ -87,10 +88,10 @@ _Development platforms, languages, frameworks_
 - [ ] Hibernate	https://hibernate.org/	Dramework for mapping an object-oriented domain model to a relational database
  
 - [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
-- [ ] MongoDB	https://www.mongodb.com/	NoSQL database
- 
+- [X] MongoDB	https://www.mongodb.com/	NoSQL database	(Maximilian Simon)
+
 - [ ] Godot	https://godotengine.org/	Game engine
-- [x] UNITY	https://unity.com/	Game engine
+- [ ] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
 - [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
