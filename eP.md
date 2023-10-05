@@ -78,7 +78,7 @@ _Development platforms, languages, frameworks_
 - [ ] Vue.js 	https://vuejs.org/	JS framework
 			
 - [ ] sass	https://sass-lang.com/	CSS framework
-- [ ] Bootstrap	https://getbootstrap.com/	CSS framework
+- [x] Bootstrap	https://getbootstrap.com/	CSS framework
 			
 - [ ] Docusaurus	https://docusaurus.io/	Static-site generator
 			
