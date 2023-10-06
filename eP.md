@@ -40,7 +40,12 @@ _Demo use case: cookie clicker game_
 - [ ] MVC - Ruby Rails		
 - [ ] MVC - WPF		
 			
-### Development tools, Semester 3 or Semester 4, any week	
+### Development tools, Semester 3 or Semester 4, any week
+_Text Editors/IDEs_
+
+
+- [ ] emacs	https://www.gnu.org/software/emacs/
+
 
 _API development_
 
