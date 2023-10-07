@@ -44,7 +44,7 @@ _Demo use case: cookie clicker game_
 _Text Editors/IDEs_
 
 
-- [ ] emacs	https://www.gnu.org/software/emacs/
+- [x] emacs	https://www.gnu.org/software/emacs/
 
 
 _API development_
