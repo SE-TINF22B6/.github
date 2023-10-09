@@ -133,6 +133,7 @@ _Development platforms, languages, frameworks_
 - [ ] OAuth2	https://oauth.net/2/	Standard. Demo: implement OAuth2 in an application, e.g. Node.js
 - [ ] Aircrack-ng	https://www.aircrack-ng.org/	Assess WiFi network security
 			
-### New topics:			
+### New topics:
+- [x] Solidity	https://soliditylang.org/	Programming language for Ethereum blockchainn
 - [ ] ... ...	
 			
