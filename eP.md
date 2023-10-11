@@ -24,7 +24,7 @@ _Behavior-Driven Development_
 			
 ### CI/CD		Semester 3, Weeks 5-7	
 - [ ] Github Actions	https://github.com/features/actions	
-- [ ] Jenkins	https://www.jenkins.io/
+- [X] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
 - [ ] BitBucket	https://bitbucket.org/product/	
