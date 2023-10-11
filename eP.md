@@ -57,7 +57,7 @@ _API development_
 
 _Development platforms, languages, frameworks_
 
-- [ ] Firebase	https://firebase.google.com/	Google's mobile and web app development platform
+- [X] Firebase	https://firebase.google.com/	Google's mobile and web app development platform
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
 - [x] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
 - [x] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
