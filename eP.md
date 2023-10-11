@@ -59,7 +59,7 @@ _Development platforms, languages, frameworks_
 
 - [ ] Firebase	https://firebase.google.com/	Google's mobile and web app development platform
 - [ ] Flutter	https://flutter.dev/	Develope cross-platform applications (developed by Google)
-- [ ] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
+- [x] Android Studio	https://developer.android.com/studio	IDE for Android apps. Demo should cover CI/CD with Android studio (https://developer.android.com/studio/workflow)
 - [x] Kotlin	https://kotlinlang.org/	Programming language. Good for Android.
 - [x] Go	https://golang.org/	Programming language supported by Google
 - [ ] Swift	https://developer.apple.com/swift/	Programming language for all Apple platforms
