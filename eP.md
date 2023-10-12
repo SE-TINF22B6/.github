@@ -96,7 +96,7 @@ _Development platforms, languages, frameworks_
 - [x] Kafka	https://kafka.apache.org/	Distributed event store and stream-processing platform
 - [X] MongoDB	https://www.mongodb.com/	NoSQL database	(Maximilian Simon)
 
-- [ ] Godot	https://godotengine.org/	Game engine
+- [x] Godot	https://godotengine.org/	Game engine
 - [x] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
