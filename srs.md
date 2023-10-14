@@ -24,12 +24,12 @@
 
 #### 2.2 Name of Feature 1 / Use Case 1
 > Specify this feature / use case by:
-> - Relevant user stories (their links or labels)
-> - UI mockups
-> - UML behavior diagrams and necessary text specification
-> - Preconditions. *A precondition of a use case is the state of the system that must be present prior to a use case being performed.*
+> - Relevant **user stories (their links or labels)**
+> - **UI mockups**
+> - **UML behavior diagrams*** and necessary text specification
+> - **Preconditions**. *A precondition of a use case is the state of the system that must be present prior to a use case being performed.*
 > - Postconditions. *A postcondition of a use case is a list of possible states the system can be in immediately after a use case has finished.*
-> - Estimated efforts (High, medium, low)
+> - **Estimated efforts (high, medium, low)**
 
 
 #### 2.3 Name of Feature 2 / Use Case 2
@@ -39,7 +39,7 @@
 
 > [!IMPORTANT]  
 > It is not necessary to cover all of the following categories, but focus on what your project will implement.  
-> If some unfunctional requirements are described as user stories in your backlog, add their **links** in this section, or any information to guide the reader find them in your backlog, such as a **label** of those relevant user stories.
+> If some nonfunctional requirements are described as user stories in your backlog, add their **links** in this section, or any information to guide the reader find them in your backlog, such as a **label** of those relevant user stories.
 
 > Categories: Usability, Reliability, Performance, Efficiency, Integrity, Maintainability, Flexibility, Testability, Reusability, Security.  
 
