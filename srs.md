@@ -45,4 +45,4 @@
 
 
 ### 4. Technical constraints
-> Specify any major constraints, assumptions or dependencies, such as the application must be deployed in a server in Germany.
+> Specify any major constraints, assumptions or dependencies, e.g., any restrictions about which type of server to use, which type of open source license must be complied, etc. 
