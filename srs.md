@@ -20,13 +20,13 @@
 
 #### 2.1 Overview 
 > A brief description of the functionality of your application.  
-> Include one or more **UML use case** diagram(s) to specify the major use cases of your application.
+> Include one or more **UML use case** diagram(s) and necessary description to specify the major use cases of your application.
 
 #### 2.2 Name of Feature 1 / Use Case 1
 > Specify this feature / use case by:
 > - Relevant **user stories (their links or labels)**
 > - **UI mockups**
-> - **UML behavior diagrams*** and necessary text specification
+> - **UML behavior diagrams** and necessary text specification
 > - **Preconditions**. *A precondition of a use case is the state of the system that must be present prior to a use case being performed.*
 > - Postconditions. *A postcondition of a use case is a list of possible states the system can be in immediately after a use case has finished.*
 > - **Estimated efforts (high, medium, low)**
