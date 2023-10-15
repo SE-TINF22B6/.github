@@ -73,7 +73,7 @@ _Development platforms, languages, frameworks_
 - [ ] Flask	https://palletsprojects.com/p/flask/	Micro web framework written in Python.
 - [ ] Svelte Kit	https://kit.svelte.dev/	Web development framework
 	
-- [ ] node.js	https://nodejs.org/	Javascript runtime (Web server)
+- [x] node.js	https://nodejs.org/	Javascript runtime (Web server)
 - [ ] Deno	https://deno.land/	Runtime for JavaScript and TypeScript
 
 - [x] Angular	https://angular.io/	Web development framework
@@ -100,7 +100,7 @@ _Development platforms, languages, frameworks_
 - [x] UNITY	https://unity.com/	Game engine
 - [ ] Solar2D	https://solar2d.com/	Game engine
 			
-- [x] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
+- [ ] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
 			
 ### Deployment		Semester 4, Weeks 1-4	
 - [ ] Traefik 	https://traefik.io/traefik/	HTTP reverse proxy and load balancer 
