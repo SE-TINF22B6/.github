@@ -23,7 +23,7 @@ _Behavior-Driven Development_
 - [ ] Cucumber	https://cucumber.io/	
 			
 ### CI/CD		Semester 3, Weeks 5-7	
-- [ ] Github Actions	https://github.com/features/actions	
+- [X] Github Actions	https://github.com/features/actions	
 - [X] Jenkins	https://www.jenkins.io/
 - [ ] Azure	https://azure.microsoft.com/en-us/	
 - [ ] TeamCity	https://www.jetbrains.com/teamcity/ci-cd-guide/	
