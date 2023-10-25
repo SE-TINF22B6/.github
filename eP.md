@@ -116,7 +116,7 @@ _Development platforms, languages, frameworks_
 - [ ] Reviewable	https://reviewable.io/ 	Code review tool
 			
 - [X] Test Diven Development	could be combined with a unit testing tool	Explain with your source code
-- [ ] JUnit	https://junit.org/junit5/	Unit testing for Java
+- [x] JUnit	https://junit.org/junit5/	Unit testing for Java
 - [X] NUnit	https://nunit.org/	Unit testing for .Net
 			
 - [ ] Mockito	https://site.mockito.org/	Mocking framework for Java
