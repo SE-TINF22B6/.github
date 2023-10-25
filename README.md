@@ -6,4 +6,6 @@
 - UML examples:
   - https://www.drawio.com/example-diagrams#uml-diagrams
   - https://circle.visual-paradigm.com/diagram-examples/ 
-- [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
+- CI/CD
+  - [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+  - [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
