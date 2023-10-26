@@ -123,7 +123,7 @@ _Development platforms, languages, frameworks_
 - [ ] Tescafé	https://testcafe.io/	Automated web testing
 - [ ] Selenium	https://www.selenium.dev/ 	UI testing
 - [ ] Coverall	https://coveralls.io/	web-based code coverage service
-- [ ] FitNesse	http://docs.fitnesse.org/FrontPage	Acceptance testing
+- [x] FitNesse	http://docs.fitnesse.org/FrontPage	Acceptance testing
 			
 - [ ] SonarQube	https://www.sonarsource.com/products/sonarqube/	Static code analysis
 - [ ] Google Lighthouse	https://developer.chrome.com/docs/lighthouse/overview/	Performance measuring
