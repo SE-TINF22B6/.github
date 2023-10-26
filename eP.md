@@ -98,7 +98,7 @@ _Development platforms, languages, frameworks_
 
 - [x] Godot	https://godotengine.org/	Game engine
 - [x] UNITY	https://unity.com/	Game engine
-- [ ] Solar2D	https://solar2d.com/	Game engine
+- [x] Solar2D	https://solar2d.com/	Game engine
 			
 - [ ] OpenAI API	https://platform.openai.com/docs/introduction	Understanding or generating natural language and code
 			
