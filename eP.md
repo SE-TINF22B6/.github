@@ -135,5 +135,7 @@ _Development platforms, languages, frameworks_
 			
 ### New topics:
 - [x] Solidity	https://soliditylang.org/	Programming language for Ethereum blockchainn
+- [x] Unreal Engine	https://www.unrealengine.com/	3D Graphics & Game Engine
+
 - [ ] ... ...	
 			
