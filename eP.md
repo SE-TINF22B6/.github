@@ -113,7 +113,7 @@ _Development platforms, languages, frameworks_
 			
 ### Software quality		Semester 4, Weeks 5-8	
 - [ ] Clean code / Code Smells	could be combined with a code analysis tool	Explain with your code examples
-- [ ] Reviewable	https://reviewable.io/ 	Code review tool
+- [x] Reviewable	https://reviewable.io/ 	Code review tool
 			
 - [X] Test Diven Development	could be combined with a unit testing tool	Explain with your source code
 - [x] JUnit	https://junit.org/junit5/	Unit testing for Java
