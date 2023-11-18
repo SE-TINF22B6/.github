@@ -37,11 +37,30 @@
 
 ### 3. Nonfunctional requirements
 
-> [!IMPORTANT]  
-> It is not necessary to cover all of the following categories, but focus on what your project will implement.  
-> If some nonfunctional requirements are described as user stories in your backlog, add their **links** in this section, or any information to guide the reader find them in your backlog, such as a **label** of those relevant user stories.
+> [!NOTE]  
+> It is not necessary to cover all of the following ASRs (Architecturally Significant Requirements), but focus on what your project will implement.  
+> If some ASRs are described as user stories in your backlog, add their **links** in this section, or any information to guide the reader find them in your backlog, such as a **label** of those relevant user stories.
 
 > Categories: Usability, Reliability, Performance, Efficiency, Integrity, Maintainability, Flexibility, Testability, Reusability, Security.  
+
+#### 3.1 Utility tree
+
+| Quality attribute    | Refinement             | Quality attribute scenarios   | Business value | Technical risk  |
+| :---                 | :----                  | :----                         | :----          | :----           | 
+| e.g. Availability    | e.g. data loss         | Scenario 1.1                  |  e.g. H        | e.g., L         |
+|                      |                        | Scenario 1.2                  |  e.g. M        | e.g., L         |
+|                      | e.g. hardware issue    | Scenario 2.1                  |  e.g. H        | e.g., L         |
+| e.g. Security        | e.g. ...               |                               |                |                 |
+
+> [!IMPORTANT]
+> When specifying the quality attribute scenarios, cover 6 aspects: who/what*, Event, Influence, Condition, Action, Measurement
+
+#### 3.2 Tactics for Top 2 quality attributes
+
+##### 3.2.1 ...
+
+##### 3.2.2 ...
+
 
 
 ### 4. Technical constraints
