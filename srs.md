@@ -55,7 +55,7 @@
 > [!IMPORTANT]
 > When specifying the quality attribute scenarios, cover 6 aspects: who/what*, Event, Influence, Condition, Action, Measurement
 
-#### 3.2 Tactics for Top 2 quality attributes
+#### 3.2 Tactics for Top 2 quality attribute scenarios
 
 ##### 3.2.1 ...
 
