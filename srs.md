@@ -55,13 +55,13 @@
 > [!IMPORTANT]
 > When specifying the quality attribute scenarios, cover 6 aspects: who/what, Event, Influence, Condition, Action, Measurement
 
-#### 3.2 Tactics for Top 2 quality attribute scenarios
+#### 3.2 Tactics for Top 3 quality attribute scenarios
 
 ##### 3.2.1 ...
 
 ##### 3.2.2 ...
 
-
+##### 3.2.3 ...
 
 ### 4. Technical constraints
 > Specify any major constraints, assumptions or dependencies, e.g., any restrictions about which type of server to use, which type of open source license must be complied, etc. 
