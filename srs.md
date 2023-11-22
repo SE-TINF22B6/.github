@@ -41,7 +41,7 @@
 > It is not necessary to cover all of the following ASRs (Architecturally Significant Requirements), but focus on what your project will implement.  
 > If some ASRs are described as user stories in your backlog, add their **links** in this section, or any information to guide the reader find them in your backlog, such as a **label** of those relevant user stories.
 
-> Categories: Usability, Reliability, Performance, Efficiency, Integrity, Maintainability, Flexibility, Testability, Reusability, Security.  
+> Categories: Availability, Performance, (Energy) Efficiency, Deployability, Integrability, Modifiability, Testability, Safety, Security.  Usability
 
 #### 3.1 Utility tree
 
