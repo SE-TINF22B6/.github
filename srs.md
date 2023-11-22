@@ -47,13 +47,13 @@
 
 | Quality attribute    | Refinement             | Quality attribute scenarios   | Business value | Technical risk  |
 | :---                 | :----                  | :----                         | :----          | :----           | 
-| e.g. Availability    | e.g. data loss         | Scenario 1.1                  |  e.g. H        | e.g., L         |
+| e.g. Availability    | e.g. data loss         | Scenario 1.1  who/what, Event, Influence, Condition, Action, Measurement                |  e.g. H        | e.g., L         |
 |                      |                        | Scenario 1.2                  |  e.g. M        | e.g., L         |
 |                      | e.g. hardware issue    | Scenario 2.1                  |  e.g. H        | e.g., L         |
-| e.g. Security        | e.g. ...               |                               |                |                 |
+| e.g. Security        | ... ...                |                               |                |                 |
 
 > [!IMPORTANT]
-> When specifying the quality attribute scenarios, cover 6 aspects: who/what*, Event, Influence, Condition, Action, Measurement
+> When specifying the quality attribute scenarios, cover 6 aspects: who/what, Event, Influence, Condition, Action, Measurement
 
 #### 3.2 Tactics for Top 2 quality attribute scenarios
 
