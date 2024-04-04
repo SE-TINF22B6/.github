@@ -113,7 +113,7 @@ _Development platforms, languages, frameworks_
 			
 ### Software quality		Semester 4, Weeks 5-8	
 - [ ] Clean code / Code Smells	could be combined with a code analysis tool	Explain with your code examples
-- [x] Reviewable	https://reviewable.io/ 	Code review tool
+- [ ] Reviewable	https://reviewable.io/ 	Code review tool
 			
 - [X] Test Diven Development	could be combined with a unit testing tool	Explain with your source code
 - [x] JUnit	https://junit.org/junit5/	Unit testing for Java
@@ -136,6 +136,7 @@ _Development platforms, languages, frameworks_
 ### New topics:
 - [x] Solidity	https://soliditylang.org/	Programming language for Ethereum blockchainn
 - [x] Unreal Engine	https://www.unrealengine.com/	3D Graphics & Game Engine
+- [x] SQLAlchemy 
 
 - [ ] ... ...	
 			
