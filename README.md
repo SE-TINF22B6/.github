@@ -9,3 +9,4 @@
 - CI/CD
   - [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
   - [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
+- [Software Architecture Documentation](sad.md)
