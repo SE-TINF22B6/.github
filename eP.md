@@ -121,7 +121,7 @@ _Development platforms, languages, frameworks_
 			
 - [ ] Mockito	https://site.mockito.org/	Mocking framework for Java
 - [ ] Tescafé	https://testcafe.io/	Automated web testing
-- [ ] Selenium	https://www.selenium.dev/ 	UI testing
+- [X] Selenium	https://www.selenium.dev/ 	UI testing
 - [ ] Coverall	https://coveralls.io/	web-based code coverage service
 - [x] FitNesse	http://docs.fitnesse.org/FrontPage	Acceptance testing
 			
