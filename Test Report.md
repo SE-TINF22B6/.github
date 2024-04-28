@@ -1,5 +1,5 @@
 # Project Name
-## Test report
+## Test Report
 
 ### 1. Introduction
 > This section provides an overview of the software testing process and the scope of the testing activities.
