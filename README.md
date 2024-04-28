@@ -10,3 +10,4 @@
   - [Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
   - [GitHub Actions Quickstart](https://docs.github.com/en/actions/quickstart)
 - [Software Architecture Documentation (SAD) Template](sad.md)
+- [Test Report Template](https://github.com/SE-TINF22B6/for-all-teams/blob/main/Test%20Report.md)
